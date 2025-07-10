@@ -1,0 +1,1 @@
+{"is_source_file": true, "file_id": 3, "git_revision": "", "state": 1, "description": "", "external_files": [], "external_methods": [], "published": [], "classes": [], "methods": [], "calls": [], "search-terms": [], "hash": "5204f1b12daa36509c8936890368d31a", "format-version": 4, "code-base-name": "frontend_mobile_app", "filename": "lib/main.dart", "knowledge_revision": 3}
